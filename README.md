@@ -1,5 +1,5 @@
 # Bigfoot Hunter
-This notebook aims to demonstrate my knowledge of stochastic processes and hypothesis testing using a toy problem. This is one of the tasks, which I solved during my half-year interaction with Barack Zackay's 'Statistics in Astrophysics' lab.
+This notebook aims to demonstrate my knowledge of stochastic processes and hypothesis testing using a toy problem. This is one of the tasks that I solved during my half-year interaction with Barack Zackay's 'Statistics in Astrophysics' lab in Weizmann.
 
 So the aim of the problem is to track a Bigfoot!:)
 
